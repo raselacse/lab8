@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px 5px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+nav {
+    padding: 31px 20px;
+}
+.navigation img{
+    float: left;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    
+    display: inline;
+}
+ul li a{
+    float: left;
+    padding-right: 20px;
+    text-decoration: none;
+    color: tomato;
+}
